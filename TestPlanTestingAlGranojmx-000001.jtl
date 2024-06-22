@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719060735997,979,/reserve.php-33,200,OK,Thread Group reserve 1-1,text,true,,2388,643,1,1,https://www.blazedemo.com/reserve.php,978,0,678
+1719060738452,304,/purchase.php-37,200,OK,Thread Group reserve 1-1,text,true,,2449,701,1,1,https://www.blazedemo.com/purchase.php,298,0,0
+1719060739809,298,/confirmation.php-41,200,OK,Thread Group reserve 1-1,text,true,,2343,823,1,1,https://www.blazedemo.com/confirmation.php,293,0,0
+1719060988590,795,/reserve.php-33,200,OK,Thread Group reserve 1-1,text,true,,2492,643,1,1,https://www.blazedemo.com/reserve.php,794,0,480
+1719060989846,296,/purchase.php-37,200,OK,Thread Group reserve 1-1,text,true,,2549,701,1,1,https://www.blazedemo.com/purchase.php,290,0,0
+1719060990959,299,/confirmation.php-41,200,OK,Thread Group reserve 1-1,text,true,,2424,823,1,1,https://www.blazedemo.com/confirmation.php,293,0,0
